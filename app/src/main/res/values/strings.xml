@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chaquo</string>
+
+
+    <string-array name="User">
+        <item>Select User</item>
+        <item>GAYATRIKRUPA</item>
+        <item>SAIBABA</item>
+        <item>ADITYA ENTERPRISE</item>
+        <item>LAXMI TRADING</item>
+        <item>GANESH FOAM</item>
+
+    </string-array>
+</resources>
